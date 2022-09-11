@@ -1,0 +1,9 @@
+Brendan Probst
+1. url: https://medium.com/hackernoon/why-isnt-agile-working-d7127af1c552 
+2. Description: 
+This articles explains several short comings of a typical team that uses agile methods. This are not flaws with the agile system, but issues
+that typically arise in any team environment. The author explains that many time things like technical debt, not focusing on delivering the right product,
+getting distracted with small tasks, and long wait times are just a few things that slow agile teams down. To conclude, the author offers some things that
+agile teams should be focusing on, such as focusing on the important work, automating procedures, properly allocating resources and time, and mapping value streams.  
+3. Recommend?: Yes, I would recommend this article because it gives the reader a better understanding of ways that agile teams can be slowed down. If you're not aware something
+is happening, you can't fix it. So hearing about cannot pitfalls will increase the chances that they will be addressed or avoided in the future. 

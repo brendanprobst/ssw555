@@ -1,0 +1,123 @@
+0 HEAD Brendan Probst
+0 NOTE start of the Peterson family
+0 AAA FAM
+1 MARR 
+2 DATE 20 MAY 1954
+1 HUSB A01
+1 WIFE A02
+1 CHIL A03 
+1 CHIL A04
+0 NOTE end of Peterson family 
+0 NOTE Start of Smith family
+0 BBB FAM
+1 MARR 
+2 DATE 30 Jul 1980
+1 HUSB B01
+1 WIFE A04
+1 CHIL B03
+0 NOTE END of Smith Family
+0 NOTE Start of Peterson family (2nd gen)
+0 CCC FAM
+1 MARR 
+2 DATE 02 SEP 1972
+1 HUSB A03
+1 WIFE E03
+1 CHIL C03 
+1 DIV
+2 DATE 13 OCT 1980
+0 NOTE end of Peterson family 
+0 NOTE Start of Peterson Family (2nd gen, 2nd marriage)
+0 CCD FAM
+1 MARR
+2 DATE 14 JAN 1981
+1 HUSB A03
+1 WIFE F03
+1 CHIL C03
+1 CHIL F04
+0 NOTE End of peterson family (2nd gen, 2nd marriage)
+0 NOTE start of John
+0 A01 INDI
+1 NAME John Peterson
+1 BIRT
+2 DATE 23 SEP 1932
+1 SEX M
+1 FAMS AAA
+1 DEAT
+2 DATE 10 JAN 2010
+0 NOTE end of John
+0 NOTE start of Sally
+0 A02 Sally Peterson
+1 BIRT
+2 DATE 19 Oct 1935
+1 SEX F
+1 FAMS AAA
+1 DEAT 
+2 DATE 16 MAY 2018
+0 NOTE end of Sally
+0 NOTE Start of Bill 
+0 A03 INDI
+1 NAME Bill Peterson
+1 BIRT
+2 DATE 18 Oct 1960
+1 SEX M
+1 FAMC AAA 
+1 FAMS CCC
+0 NOTE end of Bill
+0 NOTE start of Jane
+0 A04 INDI 
+1 NAME Jane Peterson
+1 BIRT
+2 DATE 20 Apr 1964
+1 SEX F
+1 FAMC AAA
+1 FAMS BBB
+0 NOTE end of Jane
+0 NOTE Start of Sam
+0 B01 INDI
+1 NAME Sam Smith
+1 BIRT
+2 DATE 17 Aug 1967
+1 SEX M
+1 FAMC DDD
+1 FAMS BBB
+0 NOTE end of Sam 
+0 NOTE Start of Sarah
+0 E03 Sarah Tomson
+1 BIRT
+2 DATE 12 Feb 1965
+1 SEX F
+1 FAMS CCC
+1 FAMC EEE
+1 DEAT
+2 DATE 13 OCT 1980
+0 NOTE end of Sarah
+0 NOTE start of Jill
+0 F03 INDI
+1 NAME Jill Finick
+1 BIRT
+2 DATE 16 JUN 1964
+1 SEX F
+1 FAMC FFF
+1 FAMS CCD
+0 NOTE end of jill
+0 NOTE Start of Jack
+0 B03 Jack Smith
+1 BIRT
+2 DATE 29 Oct 1985
+1 SEX F
+1 FAMC BBB 
+0 NOTE end of Jack
+0 NOTE start of Will
+0 C03 INDI
+1 NAME Will Peterson
+1 BIRT
+2 DATE 23 NOV 1985
+1 FAMC CCD
+0 NOTE end of will
+0 NOTE start of Alex
+0 F04 INDI
+1 NAME Alex Finick
+1 BIRT
+2 DATE 13 MAR 1984
+1 FAMC CCD
+0 NOTE end of Alex
