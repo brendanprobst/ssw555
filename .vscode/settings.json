@@ -1,0 +1,8 @@
+{
+	"workbench.colorCustomizations": {
+		"activityBar.background": "#4D174B",
+		"titleBar.activeBackground": "#6C2069",
+		"titleBar.activeForeground": "#FDF8FD"
+	},
+	"cSpell.words": ["INDI", "TRLR"]
+}
